@@ -23,12 +23,12 @@ This is a simple app that helps users track their favorite stonks.
 * Business dashboard.
 * Report screens for account payable, receivables, stock items.
 <p float="left">
-  <img src="images/app2/p1.png" width=450/>
-  <img src="images/app2/p2.png" width=450/> 
-  <img src="images/app2/p3.png" width=450/>
-  <img src="images/app2/p4.png" width=450/>
-  <img src="images/app2/p5.png" width=450/>
-  <img src="images/app2/p6.png" width=450/>
+  <img src="images/app2/p1.png" width=400/>
+  <img src="images/app2/p2.png" width=400/> 
+  <img src="images/app2/p3.png" width=400/>
+  <img src="images/app2/p4.png" width=400/>
+  <img src="images/app2/p5.png" width=400/>
+  <img src="images/app2/p6.png" width=400/>
 </p>
 
 ## 3- TASK PLANNER UI IN FLUTTER
