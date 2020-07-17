@@ -1,5 +1,5 @@
 # Showcase of My Apps
-## 1- STOCK MARKET APP IN FLUTTER
+## 1- Stock Market App in Flutter
 This is a simple app that helps users track their favorite stonks.
 
 ### Features
@@ -15,7 +15,7 @@ This is a simple app that helps users track their favorite stonks.
   <img src="images/app1/new.png" />
 </p>
 
-## 2- BUSINESS ASSISTANT APP
+## 2- Business Assistant App
 ### Features
 * Invoice generator.
 * Party (supplier/customer) statement generator.
@@ -31,6 +31,6 @@ This is a simple app that helps users track their favorite stonks.
   <img src="images/app2/p6.png" width=400/>
 </p>
 
-## 3- TASK PLANNER UI IN FLUTTER
+## 3- Task Planner UI in Flutter
 Task Planner App is built in flutter. App design is based on [Task Planner App](https://dribbble.com/shots/10951333/attachments/2566966?mode=media) designed by [Purrweb UI](https://dribbble.com/purrwebui).
 This app is static. I mean, This is a UI design. No backend.
