@@ -22,7 +22,7 @@ This is a simple app that helps users track their favorite stonks.
 * Invoice/voucher viewer.
 * Business dashboard.
 * Report screens for account payable, receivables, stock items.
-<p float="center">
+<p float="left">
   <img src="images/app2/p1.png" width=450/>
   <img src="images/app2/p2.png" width=450/> 
   <img src="images/app2/p3.png" width=450/>
