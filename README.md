@@ -30,3 +30,5 @@ This is a simple app that helps users track their favorite stonks.
   <img src="images/app2/p5.png" width=450/>
   <img src="images/app2/p6.png" width=450/>
 </p>
+
+## 3- TASK PLANNER UI IN FLUTTER
