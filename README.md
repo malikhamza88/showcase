@@ -14,3 +14,19 @@ This is a simple app that helps users track their favorite stonks.
   <img src="images/app1/p2.png" />
   <img src="images/app1/new.png" />
 </p>
+
+## 2- BUSINESS ASSISTANT APP
+### Features
+* Invoice generator.
+* Party (supplier/customer) statement generator.
+* Invoice/voucher viewer.
+* Business dashboard.
+* Report screens for account payable, receivables, stock items.
+<p float="center">
+  <img src="images/app2/p1.png" width=450/>
+  <img src="images/app2/p2.png" width=450/> 
+  <img src="images/app2/p3.png" width=450/>
+  <img src="images/app2/p4.png" width=450/>
+  <img src="images/app2/p5.png" width=450/>
+  <img src="images/app2/p6.png" width=450/>
+</p>
