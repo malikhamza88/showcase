@@ -47,3 +47,15 @@ This app is static. I mean, This is a UI design. No backend.
   <img src="images/app4/fitness_app.gif" width=400/>
   <img src="images/app4/hotel_booking.gif" width=400/>
 </p>
+
+## 5- E-Commerce Book Store
+A complete Flutter E-Commerce Book Store application built using firebase as backend.
+![g](https://user-images.githubusercontent.com/16588377/77118745-f815ca80-6a5a-11ea-9aba-94ab4153c388.png)
+
+## Features 
+ * Add or remove item in cart
+ * Search products
+ * Add Address
+ * Payment through UPI
+ * Firestore Backend
+ * SignIn using firebase
