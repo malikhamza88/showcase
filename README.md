@@ -39,3 +39,11 @@ This app is static. I mean, This is a UI design. No backend.
   HomePage              |   Calendar Page | Task Create Page
 :-------------------------:|:-------------------------:|:---------------------:
 ![](https://github.com/malikhamza88111/showcase/blob/master/images/app3/screenshot1.jpg?raw=true)|![](https://github.com/malikhamza88111/showcase/blob/master/images/app3/screenshot2.jpg?raw=true)|![](https://github.com/malikhamza88111/showcase/blob/master/images/app3/screenshot3.jpg?raw=true)
+
+## 4- Some Custom UI Designs in FLutter
+<p float="left">
+  <img src="images/app4/custom_drawer.gif" width=400/>
+  <img src="images/app4/design_course.gif" width=400/> 
+  <img src="images/app4/fitness_app.gif" width=400/>
+  <img src="images/app4/hotel_booking.gif" width=400/>
+</p>
